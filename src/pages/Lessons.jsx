@@ -43,6 +43,7 @@ function Lessons() {
         {lessons.map((lesson) => (
           <LessonCard
             key={lesson.id}
+            id={lesson.id}
             image={lesson.image}
             title={lesson.title}
           />
