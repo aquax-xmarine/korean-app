@@ -29,8 +29,5 @@ __pycache__/
 *.pyc
 korean_venv/
 
-# Audio
-*.mp3
-
 # Environment
 .env
