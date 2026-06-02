@@ -4,12 +4,12 @@ import { useParams } from "react-router-dom";
 
 const lessonData = {
   korean: [
-    { id: 1, title: "Lesson 1 - Greetings", image: "/src/assets/korean/lesson1.avif" },
+    { id: 1, title: "Lesson 1 - Greetings", image: "/public/assets/korean/lesson1.avif" },
     { id: 2, title: "Lesson 2 - Numbers" },
     { id: 3, title: "Lesson 3 - Family" },
   ],
   chinese: [
-    { id: 1, title: "Lesson 1 - Greetings", image: "/src/assets/chinese/lesson1.avif" },
+    { id: 1, title: "Lesson 1 - Greetings", image: "/public/assets/chinese/lesson1.avif" },
     { id: 2, title: "Lesson 2 - Numbers" },
     { id: 3, title: "Lesson 3 - Family" },
   ],
