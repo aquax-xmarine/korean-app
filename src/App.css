@@ -24,15 +24,18 @@
 .lesson-card {
   aspect-ratio: 1;
   background: #e0e0e0;
-  border-radius: 6px;
+  border-radius: 12px;
   overflow: hidden;
   position: relative;
   transition: transform 0.3s ease;
+  border: 1px solid #e8e8e8;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 }
 
 .lesson-card:hover {
   cursor: pointer;
   transform: scale(1.05);
+  border-color: #d9d9d9;
 }
 
 .lesson-card img {

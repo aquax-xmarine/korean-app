@@ -1,11 +1,10 @@
-function AudioSection({ language, lessonId }) {
-  const imagePath = `/assets/${language}/lesson${lessonId}.avif`;
+function AudioSection({ image, language, lessonId }) {
   const audioPath = `/assets/audio/${language}/lesson${lessonId}.mp3`;
 
   return (
     <div className="audio-section">
       <img
-        src={imagePath}
+        src={image}
         alt="Lesson"
         className="lesson-image"
       />

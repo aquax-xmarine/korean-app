@@ -13,6 +13,9 @@ function LessonCard({ image, title, id, language }) {
     if (id === 3) {
       navigate(`/lesson/${language}/3`);
     }
+    if (id === 4) {
+      navigate(`/lesson/${language}/4`);
+    }
   };
 
   return (
