@@ -1,44 +1,28 @@
 import LessonCard from "../components/LessonCard";
+import { useParams } from "react-router-dom";
 
-const lessons = [
-  { id: 1, title: "Lesson 1 - Greetings", image: "/src/assets/greetings.avif" },
-  { id: 2 },
-  { id: 3 },
-  { id: 4 },
-  { id: 5 },
-  { id: 6 },
-  { id: 7 },
-  { id: 8 },
-  { id: 9 },
-  { id: 10 },
 
-  { id: 11 },
-  { id: 12 },
-  { id: 13 },
-  { id: 14 },
-  { id: 15 },
-  { id: 16 },
-  { id: 17 },
-  { id: 18 },
-  { id: 19 },
-  { id: 20 },
-
-  { id: 21 },
-  { id: 22 },
-  { id: 23 },
-  { id: 24 },
-  { id: 25 },
-  { id: 26 },
-  { id: 27 },
-  { id: 28 },
-  { id: 29 },
-  { id: 30 },
-];
+const lessonData = {
+  korean: [
+    { id: 1, title: "Lesson 1 - Greetings", image: "/src/assets/korean/lesson1.avif" },
+    { id: 2, title: "Lesson 2 - Numbers" },
+    { id: 3, title: "Lesson 3 - Family" },
+  ],
+  chinese: [
+    { id: 1, title: "Lesson 1 - Greetings", image: "/src/assets/chinese/lesson1.avif" },
+    { id: 2, title: "Lesson 2 - Numbers" },
+    { id: 3, title: "Lesson 3 - Family" },
+  ],
+};
 
 function Lessons() {
+  const { language } = useParams();
+
+  const lessons = lessonData[language] || [];
+
   return (
     <div className="lessons-page">
-      <h1>Lessons</h1>
+      <h1>{language.charAt(0).toUpperCase() + language.slice(1)} Lessons</h1>
       <div className="lessons-grid">
         {lessons.map((lesson) => (
           <LessonCard
@@ -46,6 +30,7 @@ function Lessons() {
             id={lesson.id}
             image={lesson.image}
             title={lesson.title}
+            language={language}
           />
         ))}
       </div>

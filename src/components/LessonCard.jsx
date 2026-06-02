@@ -1,11 +1,11 @@
 import { useNavigate } from "react-router-dom";
 
-function LessonCard({ image, title, id }) {
+function LessonCard({ image, title, id, language }) {
   const navigate = useNavigate();
 
   const handleClick = () => {
     if (id === 1) {
-      navigate("/lesson/1");
+      navigate(`/lesson/${language}/1`);
     }
   };
 
