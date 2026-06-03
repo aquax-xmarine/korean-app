@@ -28,6 +28,10 @@ dist-ssr
 __pycache__/
 *.pyc
 korean_venv/
+venv/
+text_to_speech/venv/
+text_to_speech/**/temp_*.mp3
+text_to_video/**/*.mp4
 
 # Environment
 .env

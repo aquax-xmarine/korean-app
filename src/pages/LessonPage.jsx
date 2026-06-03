@@ -1,18 +1,26 @@
 import { useParams } from "react-router-dom";
-import AudioSection from "../components/AudioSection";
+import VideoSection from "../components/VideoSection";
 import LessonReviewSection from "../components/LessonReviewSection";
+import { lessonData } from "../data/lessonData";
 
 function LessonPage() {
   const { language, lessonId } = useParams();
 
-  const title = `${language.charAt(0).toUpperCase() + language.slice(1)} - Lesson ${lessonId}`;
+  const lesson = lessonData[language]?.find(
+    (lesson) => lesson.id === Number(lessonId)
+  );
+
+
 
   return (
     <div className="lesson-page">
-      <h1>{title}</h1>
+      <h1>{lesson?.title}</h1>
 
       <div className="lesson-layout">
-        <AudioSection language={language} lessonId={lessonId} />
+        <VideoSection
+          video={`/assets/video/${language}/lesson${lesson.id}.mp4`}
+          thumbnail={lesson.image}
+        />
         <LessonReviewSection />
       </div>
     </div>

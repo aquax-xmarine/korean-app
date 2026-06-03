@@ -1,0 +1,1256 @@
+{
+  "vocabulary": [
+    {
+      "chinese": "两",
+      "pinyin": "liǎng",
+      "english": "two (used strictly for quantities and counting physical objects)"
+    },
+    {
+      "chinese": "千",
+      "pinyin": "qiān",
+      "english": "thousand"
+    },
+    {
+      "chinese": "一千",
+      "pinyin": "yì qiān",
+      "english": "one thousand"
+    },
+    {
+      "chinese": "万",
+      "pinyin": "wàn",
+      "english": "ten thousand (the foundational 4-digit numeric base)"
+    },
+    {
+      "chinese": "一万",
+      "pinyin": "yí wàn",
+      "english": "ten thousand (lit. 'one ten thousand')"
+    },
+    {
+      "chinese": "一百",
+      "pinyin": "yì bǎi",
+      "english": "one hundred"
+    },
+    {
+      "chinese": "一百万",
+      "pinyin": "yì bǎi wàn",
+      "english": "one million"
+    },
+    {
+      "chinese": "块",
+      "pinyin": "kuài",
+      "english": "dollar / piece (colloquial unit for currency)"
+    },
+    {
+      "chinese": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two dollars (demonstrating the quantity rule)"
+    },
+    {
+      "chinese": "多少钱",
+      "pinyin": "duō shǎo qián",
+      "english": "how much money? / how much is it?"
+    },
+    {
+      "chinese": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)"
+    },
+    {
+      "chinese": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you"
+    },
+    {
+      "chinese": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')"
+    },
+    {
+      "chinese": "对不起",
+      "pinyin": "duì bu qǐ",
+      "english": "I'm sorry"
+    },
+    {
+      "chinese": "二",
+      "pinyin": "èr",
+      "english": "two"
+    },
+    {
+      "chinese": "对",
+      "pinyin": "duì",
+      "english": "correct/yes"
+    }
+  ],
+  "timestamps": [
+    {
+      "text": "Welcome to Level 1, Topic 3 of your Chinese Audio Coach. Today we handle advanced numbers, massive counting scales, and currency. First, we must master a critical rule. When counting physical items or specifying 'two' of something, Chinese switches from èr to a completely different word. Listen closely.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 0.0,
+      "end": 21.55
+    },
+    {
+      "text": "两",
+      "pinyin": "liǎng",
+      "english": "two (used strictly for quantities and counting physical objects)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 22.05,
+      "end": 23.68
+    },
+    {
+      "text": "Notice the dipping and rising tone: Liǎng. Use this for two people, two hours, or two dollars. Never use èr for quantities. Listen again.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 24.18,
+      "end": 34.74
+    },
+    {
+      "text": "两",
+      "pinyin": "liǎng",
+      "english": "two (used strictly for quantities and counting physical objects)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 35.24,
+      "end": 36.28
+    },
+    {
+      "text": "Repeat out loud. Two of something.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 36.78,
+      "end": 39.58
+    },
+    {
+      "text": "两",
+      "pinyin": "liǎng",
+      "english": "two (used strictly for quantities and counting physical objects)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 40.08,
+      "end": 41.72
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 42.22,
+      "end": 44.22
+    },
+    {
+      "text": "Now let's scale up. To say Thousand, we use a sharp dropping tone. Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 44.22,
+      "end": 50.46
+    },
+    {
+      "text": "千",
+      "pinyin": "qiān",
+      "english": "thousand",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 50.96,
+      "end": 52.04
+    },
+    {
+      "text": "Pronounced high and flat: Qiān. Let's make it One Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 52.54,
+      "end": 57.24
+    },
+    {
+      "text": "一千",
+      "pinyin": "yì qiān",
+      "english": "one thousand",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 57.74,
+      "end": 59.3
+    },
+    {
+      "text": "Repeat out loud. One Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 59.8,
+      "end": 62.46
+    },
+    {
+      "text": "一千",
+      "pinyin": "yì qiān",
+      "english": "one thousand",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 62.96,
+      "end": 64.21
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 64.71,
+      "end": 66.71
+    },
+    {
+      "text": "Unlike English which groups numbers by thousands, Chinese groups large numbers by four digits—meaning ten-thousand gets its own unique base word. Ten-Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 66.71,
+      "end": 77.39
+    },
+    {
+      "text": "万",
+      "pinyin": "wàn",
+      "english": "ten thousand (the foundational 4-digit numeric base)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 77.89,
+      "end": 79.62
+    },
+    {
+      "text": "A sharp, definitive falling tone: Wàn. Let's say One Ten-Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 80.12,
+      "end": 85.4
+    },
+    {
+      "text": "一万",
+      "pinyin": "yí wàn",
+      "english": "ten thousand (lit. 'one ten thousand')",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 85.9,
+      "end": 87.12
+    },
+    {
+      "text": "Repeat out loud. Ten Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 87.62,
+      "end": 90.46
+    },
+    {
+      "text": "一万",
+      "pinyin": "yí wàn",
+      "english": "ten thousand (lit. 'one ten thousand')",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 90.96,
+      "end": 92.56
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 93.06,
+      "end": 95.56
+    },
+    {
+      "text": "Let's pause and anchor these base scales. Speak your answers instantly. One Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 95.56,
+      "end": 101.92
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 102.42,
+      "end": 104.42
+    },
+    {
+      "text": "一千",
+      "pinyin": "yì qiān",
+      "english": "one thousand",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 104.42,
+      "end": 105.67
+    },
+    {
+      "text": "Ten Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 106.17,
+      "end": 107.56
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 108.06,
+      "end": 110.06
+    },
+    {
+      "text": "一万",
+      "pinyin": "yí wàn",
+      "english": "ten thousand (lit. 'one ten thousand')",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 110.06,
+      "end": 111.67
+    },
+    {
+      "text": "How do you say 'two' when counting physical objects?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 112.17,
+      "end": 115.56
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 116.06,
+      "end": 118.06
+    },
+    {
+      "text": "两",
+      "pinyin": "liǎng",
+      "english": "two (used strictly for quantities and counting physical objects)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 118.06,
+      "end": 119.09
+    },
+    {
+      "text": "One Hundred from our previous lesson.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 119.59,
+      "end": 121.96
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 122.46,
+      "end": 124.46
+    },
+    {
+      "text": "一百",
+      "pinyin": "yì bǎi",
+      "english": "one hundred",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 124.46,
+      "end": 126.02
+    },
+    {
+      "text": "Moving to Module 2. Because of the four-digit grouping system, One Million is expressed literally as 'One Hundred Ten-Thousands'. One Million.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 126.52,
+      "end": 135.62
+    },
+    {
+      "text": "一百万",
+      "pinyin": "yì bǎi wàn",
+      "english": "one million",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 136.12,
+      "end": 137.51
+    },
+    {
+      "text": "Listen to the compounding blocks: Yì bǎi wàn. One Million.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 138.01,
+      "end": 142.31
+    },
+    {
+      "text": "一百万",
+      "pinyin": "yì bǎi wàn",
+      "english": "one million",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 142.81,
+      "end": 144.49
+    },
+    {
+      "text": "Repeat out loud. One Million.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 144.99,
+      "end": 147.63
+    },
+    {
+      "text": "一百万",
+      "pinyin": "yì bǎi wàn",
+      "english": "one million",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 148.13,
+      "end": 149.52
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 150.02,
+      "end": 152.52
+    },
+    {
+      "text": "Now let's talk money. The formal name for Chinese currency is the Renminbi, but in daily life, people use the word for 'piece' or 'bucket' to count money. Dollar.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 152.52,
+      "end": 162.77
+    },
+    {
+      "text": "块",
+      "pinyin": "kuài",
+      "english": "dollar / piece (colloquial unit for currency)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 163.27,
+      "end": 164.92
+    },
+    {
+      "text": "A strong, falling tone: Kuài. Let's combine it with our new quantity rule to say Two Dollars.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 165.42,
+      "end": 172.55
+    },
+    {
+      "text": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two dollars (demonstrating the quantity rule)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 173.05,
+      "end": 174.35
+    },
+    {
+      "text": "Notice it uses liǎng, never èr. Two Dollars.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 174.85,
+      "end": 178.71
+    },
+    {
+      "text": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two dollars (demonstrating the quantity rule)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 179.21,
+      "end": 180.84
+    },
+    {
+      "text": "Repeat out loud. Two Dollars.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 181.34,
+      "end": 184.03
+    },
+    {
+      "text": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two dollars (demonstrating the quantity rule)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 184.53,
+      "end": 185.83
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 186.33,
+      "end": 188.33
+    },
+    {
+      "text": "To ask 'How much money is it?' when shopping, a native speaker says.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 188.33,
+      "end": 192.82
+    },
+    {
+      "text": "多少钱",
+      "pinyin": "duō shǎo qián",
+      "english": "how much money? / how much is it?",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 193.32,
+      "end": 195.04
+    },
+    {
+      "text": "Listen to the cadence: Duōshǎo qián? How much money? Listen again.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 195.54,
+      "end": 200.97
+    },
+    {
+      "text": "多少钱",
+      "pinyin": "duō shǎo qián",
+      "english": "how much money? / how much is it?",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 201.47,
+      "end": 202.91
+    },
+    {
+      "text": "Repeat this essential shopping phrase. How much money?",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 203.41,
+      "end": 207.42
+    },
+    {
+      "text": "多少钱",
+      "pinyin": "duō shǎo qián",
+      "english": "how much money? / how much is it?",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 207.92,
+      "end": 209.64
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 210.14,
+      "end": 212.64
+    },
+    {
+      "text": "Let's drill these financial patterns. Give me the Chinese translation during the silence. Two Dollars.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 212.64,
+      "end": 219.36
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 219.86,
+      "end": 221.86
+    },
+    {
+      "text": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two dollars (demonstrating the quantity rule)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 221.86,
+      "end": 223.16
+    },
+    {
+      "text": "How much money?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 223.66,
+      "end": 225.0
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 225.5,
+      "end": 228.0
+    },
+    {
+      "text": "多少钱",
+      "pinyin": "duō shǎo qián",
+      "english": "how much money? / how much is it?",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 228.0,
+      "end": 229.73
+    },
+    {
+      "text": "One Million.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 230.23,
+      "end": 231.48
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 231.98,
+      "end": 234.48
+    },
+    {
+      "text": "一百万",
+      "pinyin": "yì bǎi wàn",
+      "english": "one million",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 234.48,
+      "end": 235.87
+    },
+    {
+      "text": "Ten Dollars.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 236.37,
+      "end": 237.69
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 238.19,
+      "end": 240.19
+    },
+    {
+      "text": "十块",
+      "pinyin": "shí kuài",
+      "english": "ten dollars",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 240.19,
+      "end": 241.87
+    },
+    {
+      "text": "You have unlocked the full core numeric scaling grid. Let's enter the deep-retention challenge loop. Translate the advanced metrics instantly. One Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 242.37,
+      "end": 252.52
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 253.02,
+      "end": 255.02
+    },
+    {
+      "text": "一千",
+      "pinyin": "yì qiān",
+      "english": "one thousand",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 255.02,
+      "end": 256.27
+    },
+    {
+      "text": "How much money?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 256.77,
+      "end": 258.12
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 258.62,
+      "end": 261.12
+    },
+    {
+      "text": "多少钱",
+      "pinyin": "duō shǎo qián",
+      "english": "how much money? / how much is it?",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 261.12,
+      "end": 262.84
+    },
+    {
+      "text": "Two of something.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 263.34,
+      "end": 264.78
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 265.28,
+      "end": 267.28
+    },
+    {
+      "text": "两",
+      "pinyin": "liǎng",
+      "english": "two (used strictly for quantities and counting physical objects)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 267.28,
+      "end": 268.32
+    },
+    {
+      "text": "Ten Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 268.82,
+      "end": 270.21
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 270.71,
+      "end": 272.71
+    },
+    {
+      "text": "一万",
+      "pinyin": "yí wàn",
+      "english": "ten thousand (lit. 'one ten thousand')",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 272.71,
+      "end": 274.32
+    },
+    {
+      "text": "Two Dollars.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 274.82,
+      "end": 276.02
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 276.52,
+      "end": 278.52
+    },
+    {
+      "text": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two dollars (demonstrating the quantity rule)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 278.52,
+      "end": 279.81
+    },
+    {
+      "text": "One Million.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 280.31,
+      "end": 281.56
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 282.06,
+      "end": 284.56
+    },
+    {
+      "text": "一百万",
+      "pinyin": "yì bǎi wàn",
+      "english": "one million",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 284.56,
+      "end": 286.24
+    },
+    {
+      "text": "Phenomenal. Now we execute an ultimate triple-topic integration drill. This combines greetings, primary numbers, and transaction scales. Stay highly responsive. Say: Hello.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 286.74,
+      "end": 299.84
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 300.34,
+      "end": 302.34
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 302.34,
+      "end": 303.54
+    },
+    {
+      "text": "Say: Eight Dollars.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 304.04,
+      "end": 306.25
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 306.75,
+      "end": 308.75
+    },
+    {
+      "text": "八块",
+      "pinyin": "bā kuài",
+      "english": "",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 308.75,
+      "end": 310.31
+    },
+    {
+      "text": "Say: Thank you.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 310.81,
+      "end": 312.78
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 313.28,
+      "end": 314.78
+    },
+    {
+      "text": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 314.78,
+      "end": 316.05
+    },
+    {
+      "text": "Say: Five Thousand.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 316.55,
+      "end": 318.54
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 319.04,
+      "end": 321.04
+    },
+    {
+      "text": "五千",
+      "pinyin": "wǔ qiān",
+      "english": "",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 321.04,
+      "end": 322.77
+    },
+    {
+      "text": "Say: Goodbye.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 323.27,
+      "end": 325.1
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 325.6,
+      "end": 327.6
+    },
+    {
+      "text": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 327.6,
+      "end": 328.82
+    },
+    {
+      "text": "Say: How much money?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 329.32,
+      "end": 331.53
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 332.03,
+      "end": 334.53
+    },
+    {
+      "text": "多少钱",
+      "pinyin": "duō shǎo qián",
+      "english": "how much money? / how much is it?",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 334.53,
+      "end": 336.26
+    },
+    {
+      "text": "Say: I'm sorry.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 336.76,
+      "end": 338.58
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 339.08,
+      "end": 341.08
+    },
+    {
+      "text": "对不起",
+      "pinyin": "duì bu qǐ",
+      "english": "I'm sorry",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 341.08,
+      "end": 342.45
+    },
+    {
+      "text": "Say: Two (the digit used for counting math, not objects).",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 342.95,
+      "end": 347.84
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 348.34,
+      "end": 349.84
+    },
+    {
+      "text": "二",
+      "pinyin": "èr",
+      "english": "two",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 349.84,
+      "end": 351.31
+    },
+    {
+      "text": "Say: Two Dollars (using the quantity format).",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 351.81,
+      "end": 355.62
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 356.12,
+      "end": 358.12
+    },
+    {
+      "text": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two dollars (demonstrating the quantity rule)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 358.12,
+      "end": 359.42
+    },
+    {
+      "text": "Say: Correct.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 359.92,
+      "end": 361.91
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 362.41,
+      "end": 363.91
+    },
+    {
+      "text": "对",
+      "pinyin": "duì",
+      "english": "correct/yes",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 363.91,
+      "end": 365.38
+    },
+    {
+      "text": "Unbelievable fluency. You have locked down the foundational grammar, core vocabulary, and transactional metrics of basic Mandarin Chinese. Class dismissed.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 365.88,
+      "end": 376.56
+    }
+  ]
+}
