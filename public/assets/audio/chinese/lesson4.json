@@ -1,0 +1,1321 @@
+{
+  "vocabulary": [
+    {
+      "chinese": "在哪儿",
+      "pinyin": "zài nǎr",
+      "english": "where? located where?"
+    },
+    {
+      "chinese": "一直走",
+      "pinyin": "yì zhí zǒu",
+      "english": "go straight ahead (lit. straight walk)"
+    },
+    {
+      "chinese": "停",
+      "pinyin": "tíng",
+      "english": "stop"
+    },
+    {
+      "chinese": "左边",
+      "pinyin": "zuǒ biān",
+      "english": "left side"
+    },
+    {
+      "chinese": "右边",
+      "pinyin": "yòu biān",
+      "english": "right side"
+    },
+    {
+      "chinese": "左拐",
+      "pinyin": "zuǒ guǎi",
+      "english": "turn left"
+    },
+    {
+      "chinese": "右拐",
+      "pinyin": "yòu guǎi",
+      "english": "turn right"
+    },
+    {
+      "chinese": "前面",
+      "pinyin": "qián miàn",
+      "english": "front / ahead"
+    },
+    {
+      "chinese": "后面",
+      "pinyin": "hòu miàn",
+      "english": "behind / back"
+    },
+    {
+      "chinese": "您好",
+      "pinyin": "nín hǎo",
+      "english": "hello (formal/respectful)"
+    },
+    {
+      "chinese": "多少钱",
+      "pinyin": "duō shǎo qián",
+      "english": "how much money? / how much is it?"
+    },
+    {
+      "chinese": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two dollars (demonstrating the quantity rule)"
+    },
+    {
+      "chinese": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you"
+    },
+    {
+      "chinese": "六",
+      "pinyin": "liù",
+      "english": "six"
+    },
+    {
+      "chinese": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')"
+    }
+  ],
+  "timestamps": [
+    {
+      "text": "Welcome to Level 1, Topic 4 of your Chinese Audio Coach. Today we handle spatial orientation and navigation. Navigating an intersection or asking a taxi driver for assistance relies on flawless directional signaling. Speak your responses out loud during the pauses. Let's start with 'Where'.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 0.0,
+      "end": 19.61
+    },
+    {
+      "text": "在哪儿",
+      "pinyin": "zài nǎr",
+      "english": "where? located where?",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 20.11,
+      "end": 21.76
+    },
+    {
+      "text": "Notice the tongue-curl at the end of the phrase: Zài nǎr? Where is it located? Listen again.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 22.26,
+      "end": 28.67
+    },
+    {
+      "text": "在哪儿",
+      "pinyin": "zài nǎr",
+      "english": "where? located where?",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 29.17,
+      "end": 30.4
+    },
+    {
+      "text": "Repeat out loud. Where?",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 30.9,
+      "end": 33.08
+    },
+    {
+      "text": "在哪儿",
+      "pinyin": "zài nǎr",
+      "english": "where? located where?",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 33.58,
+      "end": 35.24
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 35.74,
+      "end": 37.74
+    },
+    {
+      "text": "Let's learn how to direct a driver. To tell someone to go straight ahead, a native speaker says.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 37.74,
+      "end": 43.35
+    },
+    {
+      "text": "一直走",
+      "pinyin": "yì zhí zǒu",
+      "english": "go straight ahead (lit. straight walk)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 43.85,
+      "end": 45.29
+    },
+    {
+      "text": "Listen to the rising tone shifting into a dipping tone: Yìzhí zǒu. Go straight ahead. Listen again.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 45.79,
+      "end": 53.04
+    },
+    {
+      "text": "一直走",
+      "pinyin": "yì zhí zǒu",
+      "english": "go straight ahead (lit. straight walk)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 53.54,
+      "end": 55.22
+    },
+    {
+      "text": "Repeat out loud. Go straight ahead.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 55.72,
+      "end": 58.5
+    },
+    {
+      "text": "一直走",
+      "pinyin": "yì zhí zǒu",
+      "english": "go straight ahead (lit. straight walk)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 59.0,
+      "end": 60.44
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 60.94,
+      "end": 62.94
+    },
+    {
+      "text": "To tell someone to stop or pull over, use this administrative command: Stop.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 62.94,
+      "end": 68.32
+    },
+    {
+      "text": "停",
+      "pinyin": "tíng",
+      "english": "stop",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 68.82,
+      "end": 70.31
+    },
+    {
+      "text": "A rising tone, like a quick signal flare: Tíng. Stop.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 70.81,
+      "end": 75.22
+    },
+    {
+      "text": "停",
+      "pinyin": "tíng",
+      "english": "stop",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 75.72,
+      "end": 76.8
+    },
+    {
+      "text": "Your turn to speak. Stop.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 77.3,
+      "end": 79.7
+    },
+    {
+      "text": "停",
+      "pinyin": "tíng",
+      "english": "stop",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 80.2,
+      "end": 81.69
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 82.19,
+      "end": 83.69
+    },
+    {
+      "text": "Let's anchor these action variables instantly. Translate during the silence. Go straight ahead.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 83.69,
+      "end": 90.2
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 90.7,
+      "end": 92.7
+    },
+    {
+      "text": "一直走",
+      "pinyin": "yì zhí zǒu",
+      "english": "go straight ahead (lit. straight walk)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 92.7,
+      "end": 94.14
+    },
+    {
+      "text": "Where is it located?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 94.64,
+      "end": 96.15
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 96.65,
+      "end": 98.65
+    },
+    {
+      "text": "在哪儿",
+      "pinyin": "zài nǎr",
+      "english": "where? located where?",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 98.65,
+      "end": 100.3
+    },
+    {
+      "text": "Stop.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 100.8,
+      "end": 101.81
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 102.31,
+      "end": 103.81
+    },
+    {
+      "text": "停",
+      "pinyin": "tíng",
+      "english": "stop",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 103.81,
+      "end": 104.89
+    },
+    {
+      "text": "Moving to Module 2. Let's master turning. First, the spatial coordinate for 'Left side'.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 105.39,
+      "end": 111.97
+    },
+    {
+      "text": "左边",
+      "pinyin": "zuǒ biān",
+      "english": "left side",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 112.47,
+      "end": 114.03
+    },
+    {
+      "text": "The first syllable dips low: Zuǒbiān. Left side.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 114.53,
+      "end": 118.68
+    },
+    {
+      "text": "左边",
+      "pinyin": "zuǒ biān",
+      "english": "left side",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 119.18,
+      "end": 120.43
+    },
+    {
+      "text": "Now, the spatial coordinate for 'Right side'.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 120.93,
+      "end": 124.53
+    },
+    {
+      "text": "右边",
+      "pinyin": "yòu biān",
+      "english": "right side",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 125.03,
+      "end": 126.73
+    },
+    {
+      "text": "The first syllable drops down hard: Yòubiān. Right side.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 127.23,
+      "end": 131.6
+    },
+    {
+      "text": "右边",
+      "pinyin": "yòu biān",
+      "english": "right side",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 132.1,
+      "end": 133.35
+    },
+    {
+      "text": "To say 'Turn', we use the word 'guǎi'. Let's combine them to create: Turn left.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 133.85,
+      "end": 140.54
+    },
+    {
+      "text": "左拐",
+      "pinyin": "zuǒ guǎi",
+      "english": "turn left",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 141.04,
+      "end": 142.72
+    },
+    {
+      "text": "Listen to how the tones bounce: Zuǒ guǎi. Turn left.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 143.22,
+      "end": 147.38
+    },
+    {
+      "text": "左拐",
+      "pinyin": "zuǒ guǎi",
+      "english": "turn left",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 147.88,
+      "end": 149.17
+    },
+    {
+      "text": "Repeat out loud. Turn left.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 149.67,
+      "end": 152.26
+    },
+    {
+      "text": "左拐",
+      "pinyin": "zuǒ guǎi",
+      "english": "turn left",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 152.76,
+      "end": 154.44
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 154.94,
+      "end": 156.94
+    },
+    {
+      "text": "Now combine the words to create: Turn right.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 156.94,
+      "end": 160.3
+    },
+    {
+      "text": "右拐",
+      "pinyin": "yòu guǎi",
+      "english": "turn right",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 160.8,
+      "end": 162.12
+    },
+    {
+      "text": "Listen to the sharp drop on the first word: Yòu guǎi. Turn right.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 162.62,
+      "end": 167.47
+    },
+    {
+      "text": "右拐",
+      "pinyin": "yòu guǎi",
+      "english": "turn right",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 167.97,
+      "end": 169.72
+    },
+    {
+      "text": "Repeat out loud. Turn right.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 170.22,
+      "end": 172.77
+    },
+    {
+      "text": "右拐",
+      "pinyin": "yòu guǎi",
+      "english": "turn right",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 173.27,
+      "end": 174.59
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 175.09,
+      "end": 177.09
+    },
+    {
+      "text": "Let's drill these spatial vectors. Stay sharp and respond instantly. Left side.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 177.09,
+      "end": 183.26
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 183.76,
+      "end": 185.76
+    },
+    {
+      "text": "左边",
+      "pinyin": "zuǒ biān",
+      "english": "left side",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 185.76,
+      "end": 187.32
+    },
+    {
+      "text": "Turn right.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 187.82,
+      "end": 188.82
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 189.32,
+      "end": 191.32
+    },
+    {
+      "text": "右拐",
+      "pinyin": "yòu guǎi",
+      "english": "turn right",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 191.32,
+      "end": 192.64
+    },
+    {
+      "text": "Right side.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 193.14,
+      "end": 194.22
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 194.72,
+      "end": 196.72
+    },
+    {
+      "text": "右边",
+      "pinyin": "yòu biān",
+      "english": "right side",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 196.72,
+      "end": 198.43
+    },
+    {
+      "text": "Turn left.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 198.93,
+      "end": 200.18
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 200.68,
+      "end": 202.68
+    },
+    {
+      "text": "左拐",
+      "pinyin": "zuǒ guǎi",
+      "english": "turn left",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 202.68,
+      "end": 203.97
+    },
+    {
+      "text": "Go straight ahead.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 204.47,
+      "end": 205.94
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 206.44,
+      "end": 208.44
+    },
+    {
+      "text": "一直走",
+      "pinyin": "yì zhí zǒu",
+      "english": "go straight ahead (lit. straight walk)",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 208.44,
+      "end": 210.12
+    },
+    {
+      "text": "Module 3 introduces your final front and back boundary markers. To indicate the 'Front' or 'Ahead', say.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 210.62,
+      "end": 218.56
+    },
+    {
+      "text": "前面",
+      "pinyin": "qián miàn",
+      "english": "front / ahead",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 219.06,
+      "end": 220.36
+    },
+    {
+      "text": "A rising tone followed by a falling tone: Qiánmiàn. Front.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 220.86,
+      "end": 225.7
+    },
+    {
+      "text": "前面",
+      "pinyin": "qián miàn",
+      "english": "front / ahead",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 226.2,
+      "end": 227.84
+    },
+    {
+      "text": "Repeat out loud. In front.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 228.34,
+      "end": 230.9
+    },
+    {
+      "text": "前面",
+      "pinyin": "qián miàn",
+      "english": "front / ahead",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 231.4,
+      "end": 232.7
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 233.2,
+      "end": 235.2
+    },
+    {
+      "text": "To indicate the 'Back' or 'Behind', say.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 235.2,
+      "end": 238.39
+    },
+    {
+      "text": "后面",
+      "pinyin": "hòu miàn",
+      "english": "behind / back",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 238.89,
+      "end": 240.57
+    },
+    {
+      "text": "A sharp dropping tone followed by another dropping tone: Hòumiàn. Behind.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 241.07,
+      "end": 246.21
+    },
+    {
+      "text": "后面",
+      "pinyin": "hòu miàn",
+      "english": "behind / back",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 246.71,
+      "end": 247.96
+    },
+    {
+      "text": "Repeat out loud. Behind.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 248.46,
+      "end": 250.98
+    },
+    {
+      "text": "后面",
+      "pinyin": "hòu miàn",
+      "english": "behind / back",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 251.48,
+      "end": 253.16
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 253.66,
+      "end": 255.66
+    },
+    {
+      "text": "Direction modules are complete. Let's enter the integrated review grid. Say the terms clearly. Behind.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 255.66,
+      "end": 263.14
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 263.64,
+      "end": 265.64
+    },
+    {
+      "text": "后面",
+      "pinyin": "hòu miàn",
+      "english": "behind / back",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 265.64,
+      "end": 266.89
+    },
+    {
+      "text": "Turn left.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 267.39,
+      "end": 268.64
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 269.14,
+      "end": 271.14
+    },
+    {
+      "text": "左拐",
+      "pinyin": "zuǒ guǎi",
+      "english": "turn left",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 271.14,
+      "end": 272.82
+    },
+    {
+      "text": "In front.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 273.32,
+      "end": 274.47
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 274.97,
+      "end": 276.97
+    },
+    {
+      "text": "前面",
+      "pinyin": "qián miàn",
+      "english": "front / ahead",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 276.97,
+      "end": 278.27
+    },
+    {
+      "text": "Where is it?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 278.77,
+      "end": 279.99
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 280.49,
+      "end": 282.49
+    },
+    {
+      "text": "在哪儿",
+      "pinyin": "zài nǎr",
+      "english": "where? located where?",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 282.49,
+      "end": 284.15
+    },
+    {
+      "text": "Turn right.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 284.65,
+      "end": 285.66
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 286.16,
+      "end": 288.16
+    },
+    {
+      "text": "右拐",
+      "pinyin": "yòu guǎi",
+      "english": "turn right",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 288.16,
+      "end": 289.48
+    },
+    {
+      "text": "Incredible. Now, prepare for the ultimate test. We are bridging vocabulary from Lesson 1 greetings, Lesson 2 and 3 numbers, and today's navigation. Do not slow down. Say: Hello (formal).",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 289.98,
+      "end": 304.14
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 304.64,
+      "end": 306.64
+    },
+    {
+      "text": "您好",
+      "pinyin": "nín hǎo",
+      "english": "hello (formal/respectful)",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 306.64,
+      "end": 308.27
+    },
+    {
+      "text": "Say: Turn right.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 308.77,
+      "end": 310.76
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 311.26,
+      "end": 313.26
+    },
+    {
+      "text": "右拐",
+      "pinyin": "yòu guǎi",
+      "english": "turn right",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 313.26,
+      "end": 314.58
+    },
+    {
+      "text": "Say: How much money?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 315.08,
+      "end": 317.29
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 317.79,
+      "end": 320.29
+    },
+    {
+      "text": "多少钱",
+      "pinyin": "duō shǎo qián",
+      "english": "how much money? / how much is it?",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 320.29,
+      "end": 322.02
+    },
+    {
+      "text": "Say: Two Dollars.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 322.52,
+      "end": 324.7
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 325.2,
+      "end": 327.2
+    },
+    {
+      "text": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two dollars (demonstrating the quantity rule)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 327.2,
+      "end": 328.5
+    },
+    {
+      "text": "Say: Go straight ahead.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 329.0,
+      "end": 331.35
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 331.85,
+      "end": 333.85
+    },
+    {
+      "text": "一直走",
+      "pinyin": "yì zhí zǒu",
+      "english": "go straight ahead (lit. straight walk)",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 333.85,
+      "end": 335.53
+    },
+    {
+      "text": "Say: Thank you.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 336.03,
+      "end": 338.0
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 338.5,
+      "end": 340.0
+    },
+    {
+      "text": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 340.0,
+      "end": 341.27
+    },
+    {
+      "text": "Say: Six.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 341.77,
+      "end": 343.57
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 344.07,
+      "end": 345.57
+    },
+    {
+      "text": "六",
+      "pinyin": "liù",
+      "english": "six",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 345.57,
+      "end": 347.2
+    },
+    {
+      "text": "Say: Stop.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 347.7,
+      "end": 349.0
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 349.5,
+      "end": 351.0
+    },
+    {
+      "text": "停",
+      "pinyin": "tíng",
+      "english": "stop",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 351.0,
+      "end": 352.08
+    },
+    {
+      "text": "Say: Goodbye.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 352.58,
+      "end": 354.4
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 354.9,
+      "end": 356.9
+    },
+    {
+      "text": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 356.9,
+      "end": 358.53
+    },
+    {
+      "text": "Absolute mastery. You have effortlessly linked conversational courtesy, complex financial values, and immediate situational geometry. Class dismissed.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 359.03,
+      "end": 369.06
+    }
+  ]
+}

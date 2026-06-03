@@ -1,0 +1,1661 @@
+{
+  "vocabulary": [
+    {
+      "chinese": "零",
+      "pinyin": "líng",
+      "english": "zero"
+    },
+    {
+      "chinese": "一",
+      "pinyin": "yī",
+      "english": "one"
+    },
+    {
+      "chinese": "二",
+      "pinyin": "èr",
+      "english": "two"
+    },
+    {
+      "chinese": "三",
+      "pinyin": "sān",
+      "english": "three"
+    },
+    {
+      "chinese": "四",
+      "pinyin": "sì",
+      "english": "four"
+    },
+    {
+      "chinese": "五",
+      "pinyin": "wǔ",
+      "english": "five"
+    },
+    {
+      "chinese": "六",
+      "pinyin": "liù",
+      "english": "six"
+    },
+    {
+      "chinese": "七",
+      "pinyin": "qī",
+      "english": "seven"
+    },
+    {
+      "chinese": "八",
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    {
+      "chinese": "九",
+      "pinyin": "jiǔ",
+      "english": "nine"
+    },
+    {
+      "chinese": "十",
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    {
+      "chinese": "百",
+      "pinyin": "bǎi",
+      "english": "hundred"
+    },
+    {
+      "chinese": "一百",
+      "pinyin": "yì bǎi",
+      "english": "one hundred"
+    },
+    {
+      "chinese": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)"
+    },
+    {
+      "chinese": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you"
+    },
+    {
+      "chinese": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')"
+    },
+    {
+      "chinese": "对",
+      "pinyin": "duì",
+      "english": "correct/yes"
+    }
+  ],
+  "timestamps": [
+    {
+      "text": "Welcome to Level 1, Topic 2 of your Chinese Audio Coach. Today we are mastering numbers. Chinese numbers follow a beautifully logical pattern, but you must nail the tones to be understood. Speak out loud during every pause. Let's start with zero.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 0.0,
+      "end": 16.34
+    },
+    {
+      "text": "零",
+      "pinyin": "líng",
+      "english": "zero",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 16.84,
+      "end": 18.31
+    },
+    {
+      "text": "Notice the rising tone, like asking a question: Ling. Zero.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 18.81,
+      "end": 23.56
+    },
+    {
+      "text": "零",
+      "pinyin": "líng",
+      "english": "zero",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 24.06,
+      "end": 25.09
+    },
+    {
+      "text": "Repeat out loud. Zero.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 25.59,
+      "end": 27.99
+    },
+    {
+      "text": "零",
+      "pinyin": "líng",
+      "english": "zero",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 28.49,
+      "end": 29.96
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 30.46,
+      "end": 32.46
+    },
+    {
+      "text": "Let's build the first sequence. The number One is a flat, high pitch. One.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 32.46,
+      "end": 37.98
+    },
+    {
+      "text": "一",
+      "pinyin": "yī",
+      "english": "one",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 38.48,
+      "end": 39.51
+    },
+    {
+      "text": "Keep your pitch high and steady: Yi. One.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 40.01,
+      "end": 44.02
+    },
+    {
+      "text": "一",
+      "pinyin": "yī",
+      "english": "one",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 44.52,
+      "end": 45.96
+    },
+    {
+      "text": "The number Two is a sharp, dropping tone. Two.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 46.46,
+      "end": 50.1
+    },
+    {
+      "text": "二",
+      "pinyin": "èr",
+      "english": "two",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 50.6,
+      "end": 51.68
+    },
+    {
+      "text": "Drop your pitch with confidence: Èr. Two.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 52.18,
+      "end": 55.54
+    },
+    {
+      "text": "二",
+      "pinyin": "èr",
+      "english": "two",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 56.04,
+      "end": 57.51
+    },
+    {
+      "text": "The number Three returns to a high, flat pitch. Three.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 58.01,
+      "end": 62.45
+    },
+    {
+      "text": "三",
+      "pinyin": "sān",
+      "english": "three",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 62.95,
+      "end": 64.08
+    },
+    {
+      "text": "Listen to the steady energy: San. Three.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 64.58,
+      "end": 68.08
+    },
+    {
+      "text": "三",
+      "pinyin": "sān",
+      "english": "three",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 68.58,
+      "end": 70.16
+    },
+    {
+      "text": "Now, repeat the sequence one through three after the speaker. One, Two, Three.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 70.66,
+      "end": 76.71
+    },
+    {
+      "text": "一，二，三",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 77.21,
+      "end": 79.32
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 79.82,
+      "end": 82.32
+    },
+    {
+      "text": "Let's check your foundation. Say the Chinese numbers instantly during the pauses. Zero.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 82.32,
+      "end": 88.28
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 88.78,
+      "end": 90.78
+    },
+    {
+      "text": "零",
+      "pinyin": "líng",
+      "english": "zero",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 90.78,
+      "end": 92.24
+    },
+    {
+      "text": "Three.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 92.74,
+      "end": 93.63
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 94.13,
+      "end": 96.13
+    },
+    {
+      "text": "三",
+      "pinyin": "sān",
+      "english": "three",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 96.13,
+      "end": 97.26
+    },
+    {
+      "text": "One.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 97.76,
+      "end": 98.6
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 99.1,
+      "end": 101.1
+    },
+    {
+      "text": "一",
+      "pinyin": "yī",
+      "english": "one",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 101.1,
+      "end": 102.54
+    },
+    {
+      "text": "Two.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 103.04,
+      "end": 103.9
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 104.4,
+      "end": 106.4
+    },
+    {
+      "text": "二",
+      "pinyin": "èr",
+      "english": "two",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 106.4,
+      "end": 107.48
+    },
+    {
+      "text": "Moving to Module 2. The number Four is a sharp downward tone, hitting a crisp 's' sound. Four.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 107.98,
+      "end": 114.87
+    },
+    {
+      "text": "四",
+      "pinyin": "sì",
+      "english": "four",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 115.37,
+      "end": 116.93
+    },
+    {
+      "text": "Make it short and punchy: Si. Four.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 117.43,
+      "end": 121.2
+    },
+    {
+      "text": "四",
+      "pinyin": "sì",
+      "english": "four",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 121.7,
+      "end": 122.82
+    },
+    {
+      "text": "The number Five scoop downwards and climbs back up. Five.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 123.32,
+      "end": 127.74
+    },
+    {
+      "text": "五",
+      "pinyin": "wǔ",
+      "english": "five",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 128.24,
+      "end": 129.75
+    },
+    {
+      "text": "Let your pitch dip low: Wu. Five.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 130.25,
+      "end": 133.56
+    },
+    {
+      "text": "五",
+      "pinyin": "wǔ",
+      "english": "five",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 134.06,
+      "end": 135.1
+    },
+    {
+      "text": "The number Six drops sharply. Six.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 135.6,
+      "end": 138.72
+    },
+    {
+      "text": "六",
+      "pinyin": "liù",
+      "english": "six",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 139.22,
+      "end": 140.85
+    },
+    {
+      "text": "Pronounced like 'liou' with a falling pitch: Liu. Six.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 141.35,
+      "end": 145.57
+    },
+    {
+      "text": "六",
+      "pinyin": "liù",
+      "english": "six",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 146.07,
+      "end": 147.15
+    },
+    {
+      "text": "Now challenge yourself. Repeat four, five, six.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 147.65,
+      "end": 152.26
+    },
+    {
+      "text": "四，五，六",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 152.76,
+      "end": 155.52
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 156.02,
+      "end": 158.52
+    },
+    {
+      "text": "Let's combine both blocks. Keep your focus sharp. Say: Four.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 158.52,
+      "end": 163.42
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 163.92,
+      "end": 165.92
+    },
+    {
+      "text": "四",
+      "pinyin": "sì",
+      "english": "four",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 165.92,
+      "end": 167.04
+    },
+    {
+      "text": "Two.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 167.54,
+      "end": 168.41
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 168.91,
+      "end": 170.91
+    },
+    {
+      "text": "二",
+      "pinyin": "èr",
+      "english": "two",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 170.91,
+      "end": 172.37
+    },
+    {
+      "text": "Five.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 172.87,
+      "end": 173.78
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 174.28,
+      "end": 176.28
+    },
+    {
+      "text": "五",
+      "pinyin": "wǔ",
+      "english": "five",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 176.28,
+      "end": 177.32
+    },
+    {
+      "text": "Three.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 177.82,
+      "end": 178.7
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 179.2,
+      "end": 181.2
+    },
+    {
+      "text": "三",
+      "pinyin": "sān",
+      "english": "three",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 181.2,
+      "end": 182.79
+    },
+    {
+      "text": "Six.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 183.29,
+      "end": 184.32
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 184.82,
+      "end": 186.82
+    },
+    {
+      "text": "六",
+      "pinyin": "liù",
+      "english": "six",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 186.82,
+      "end": 187.9
+    },
+    {
+      "text": "One.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 188.4,
+      "end": 189.24
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 189.74,
+      "end": 191.74
+    },
+    {
+      "text": "一",
+      "pinyin": "yī",
+      "english": "one",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 191.74,
+      "end": 193.18
+    },
+    {
+      "text": "Module 3 finishes the base sequence. The number Seven is high and flat. Seven.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 193.68,
+      "end": 200.23
+    },
+    {
+      "text": "七",
+      "pinyin": "qī",
+      "english": "seven",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 200.73,
+      "end": 201.84
+    },
+    {
+      "text": "Keep it high and thin: Qi. Seven.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 202.34,
+      "end": 205.79
+    },
+    {
+      "text": "七",
+      "pinyin": "qī",
+      "english": "seven",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 206.29,
+      "end": 207.8
+    },
+    {
+      "text": "The number Eight is also high and flat. In Chinese culture, this is the luckiest number. Eight.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 208.3,
+      "end": 215.65
+    },
+    {
+      "text": "八",
+      "pinyin": "bā",
+      "english": "eight",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 216.15,
+      "end": 217.2
+    },
+    {
+      "text": "High and level pitch: Ba. Eight.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 217.7,
+      "end": 220.85
+    },
+    {
+      "text": "八",
+      "pinyin": "bā",
+      "english": "eight",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 221.35,
+      "end": 223.03
+    },
+    {
+      "text": "The number Nine dips deeply before rising. Nine.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 223.53,
+      "end": 227.3
+    },
+    {
+      "text": "九",
+      "pinyin": "jiǔ",
+      "english": "nine",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 227.8,
+      "end": 228.85
+    },
+    {
+      "text": "Scoop your pitch low: Jiu. Nine.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 229.35,
+      "end": 232.54
+    },
+    {
+      "text": "九",
+      "pinyin": "jiǔ",
+      "english": "nine",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 233.04,
+      "end": 234.65
+    },
+    {
+      "text": "The number Ten climbs steadily upward. Ten.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 235.15,
+      "end": 238.7
+    },
+    {
+      "text": "十",
+      "pinyin": "shí",
+      "english": "ten",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 239.2,
+      "end": 240.36
+    },
+    {
+      "text": "Rise from low to high, curling your tongue slightly: Shi. Ten.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 240.86,
+      "end": 246.11
+    },
+    {
+      "text": "十",
+      "pinyin": "shí",
+      "english": "ten",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 246.61,
+      "end": 248.12
+    },
+    {
+      "text": "Let's lock in seven through ten. Repeat out loud.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 248.62,
+      "end": 252.34
+    },
+    {
+      "text": "七，八，九，十",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 252.84,
+      "end": 255.46
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 255.96,
+      "end": 258.96
+    },
+    {
+      "text": "Let's consolidate the entire structure from zero to ten. Stay loose and match the tones. Say: Ten.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 258.96,
+      "end": 267.17
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 267.67,
+      "end": 269.67
+    },
+    {
+      "text": "十",
+      "pinyin": "shí",
+      "english": "ten",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 269.67,
+      "end": 271.18
+    },
+    {
+      "text": "Seven.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 271.68,
+      "end": 272.62
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 273.12,
+      "end": 275.12
+    },
+    {
+      "text": "七",
+      "pinyin": "qī",
+      "english": "seven",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 275.12,
+      "end": 276.22
+    },
+    {
+      "text": "Eight.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 276.72,
+      "end": 277.56
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 278.06,
+      "end": 280.06
+    },
+    {
+      "text": "八",
+      "pinyin": "bā",
+      "english": "eight",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 280.06,
+      "end": 281.74
+    },
+    {
+      "text": "Nine.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 282.24,
+      "end": 283.2
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 283.7,
+      "end": 285.7
+    },
+    {
+      "text": "九",
+      "pinyin": "jiǔ",
+      "english": "nine",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 285.7,
+      "end": 286.76
+    },
+    {
+      "text": "Five.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 287.26,
+      "end": 288.17
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 288.67,
+      "end": 290.67
+    },
+    {
+      "text": "五",
+      "pinyin": "wǔ",
+      "english": "five",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 290.67,
+      "end": 292.18
+    },
+    {
+      "text": "Zero.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 292.68,
+      "end": 293.59
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 294.09,
+      "end": 296.09
+    },
+    {
+      "text": "零",
+      "pinyin": "líng",
+      "english": "zero",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 296.09,
+      "end": 297.12
+    },
+    {
+      "text": "In Module 4, let's look at how to expand your scope. To say 'One Hundred', we use the word for one, followed by the word for hundred. Hundred.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 297.62,
+      "end": 307.32
+    },
+    {
+      "text": "百",
+      "pinyin": "bǎi",
+      "english": "hundred",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 307.82,
+      "end": 309.36
+    },
+    {
+      "text": "It features a dipping and rising tone: Bai. To explicitly state 'One Hundred', we combine them. One Hundred.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 309.86,
+      "end": 317.85
+    },
+    {
+      "text": "一百",
+      "pinyin": "yì bǎi",
+      "english": "one hundred",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 318.35,
+      "end": 319.57
+    },
+    {
+      "text": "Notice how the tone of 'Yi' shifts slightly when paired: Yibai. Repeat out loud. One Hundred.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 320.07,
+      "end": 327.34
+    },
+    {
+      "text": "一百",
+      "pinyin": "yì bǎi",
+      "english": "one hundred",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 327.84,
+      "end": 329.4
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 329.9,
+      "end": 332.4
+    },
+    {
+      "text": "You have unlocked the basic numeric grid. Let's launch into our deep-recall loop. I will fire numbers at random. Translate into Chinese instantly. Eight.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 332.4,
+      "end": 342.96
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 343.46,
+      "end": 345.46
+    },
+    {
+      "text": "八",
+      "pinyin": "bā",
+      "english": "eight",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 345.46,
+      "end": 346.52
+    },
+    {
+      "text": "Zero.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 347.02,
+      "end": 347.93
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 348.43,
+      "end": 350.43
+    },
+    {
+      "text": "零",
+      "pinyin": "líng",
+      "english": "zero",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 350.43,
+      "end": 351.9
+    },
+    {
+      "text": "Four.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 352.4,
+      "end": 353.31
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 353.81,
+      "end": 355.81
+    },
+    {
+      "text": "四",
+      "pinyin": "sì",
+      "english": "four",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 355.81,
+      "end": 356.94
+    },
+    {
+      "text": "One Hundred.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 357.44,
+      "end": 358.61
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 359.11,
+      "end": 361.61
+    },
+    {
+      "text": "一百",
+      "pinyin": "yì bǎi",
+      "english": "one hundred",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 361.61,
+      "end": 363.17
+    },
+    {
+      "text": "Six.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 363.67,
+      "end": 364.7
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 365.2,
+      "end": 367.2
+    },
+    {
+      "text": "六",
+      "pinyin": "liù",
+      "english": "six",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 367.2,
+      "end": 368.28
+    },
+    {
+      "text": "Two.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 368.78,
+      "end": 369.65
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 370.15,
+      "end": 372.15
+    },
+    {
+      "text": "二",
+      "pinyin": "èr",
+      "english": "two",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 372.15,
+      "end": 373.61
+    },
+    {
+      "text": "Ten.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 374.11,
+      "end": 374.98
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 375.48,
+      "end": 377.48
+    },
+    {
+      "text": "十",
+      "pinyin": "shí",
+      "english": "ten",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 377.48,
+      "end": 378.63
+    },
+    {
+      "text": "Excellent. Now we bridge topics. This block introduces past vocabulary from Lesson 1 alongside your numbers. Do not get caught off guard. Say: Nine.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 379.13,
+      "end": 389.81
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 390.31,
+      "end": 392.31
+    },
+    {
+      "text": "九",
+      "pinyin": "jiǔ",
+      "english": "nine",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 392.31,
+      "end": 393.92
+    },
+    {
+      "text": "Now say: Hello.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 394.42,
+      "end": 396.07
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 396.57,
+      "end": 398.57
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 398.57,
+      "end": 399.77
+    },
+    {
+      "text": "Say: Three.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 400.27,
+      "end": 401.81
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 402.31,
+      "end": 404.31
+    },
+    {
+      "text": "三",
+      "pinyin": "sān",
+      "english": "three",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 404.31,
+      "end": 405.89
+    },
+    {
+      "text": "Say: Thank you.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 406.39,
+      "end": 408.36
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 408.86,
+      "end": 410.86
+    },
+    {
+      "text": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 410.86,
+      "end": 412.13
+    },
+    {
+      "text": "Say: Seven.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 412.63,
+      "end": 414.46
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 414.96,
+      "end": 416.96
+    },
+    {
+      "text": "七",
+      "pinyin": "qī",
+      "english": "seven",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 416.96,
+      "end": 418.47
+    },
+    {
+      "text": "Say: Goodbye.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 418.97,
+      "end": 420.79
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 421.29,
+      "end": 423.29
+    },
+    {
+      "text": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 423.29,
+      "end": 424.52
+    },
+    {
+      "text": "Say: Five.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 425.02,
+      "end": 426.62
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 427.12,
+      "end": 429.12
+    },
+    {
+      "text": "五",
+      "pinyin": "wǔ",
+      "english": "five",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 429.12,
+      "end": 430.64
+    },
+    {
+      "text": "Say: Correct.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 431.14,
+      "end": 433.13
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 433.63,
+      "end": 435.13
+    },
+    {
+      "text": "对",
+      "pinyin": "duì",
+      "english": "correct/yes",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 435.13,
+      "end": 436.18
+    },
+    {
+      "text": "Perfect execution. Your ability to shift seamlessly between conversational placeholders and numeric variables is locking into long-term memory. End of Lesson 2.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 436.68,
+      "end": 447.03
+    }
+  ]
+}

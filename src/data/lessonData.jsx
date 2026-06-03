@@ -6,9 +6,9 @@ export const lessonData = {
   ],
 
   chinese: [
-    { id: 1, title: "Lesson 1 - Greetings", image: "/assets/chinese/lesson1.avif" },
-    { id: 2, title: "Lesson 2 - Numbers", image: "/assets/chinese/lesson2.jpg", objectPosition: "50% 20%" },
+    { id: 1, title: "Lesson 1 - Greetings", image: "/assets/chinese/lesson1.avif", video: "/assets/video/chinese/lesson1.mp4" },
+    { id: 2, title: "Lesson 2 - Numbers", image: "/assets/chinese/lesson2.jpg", objectPosition: "50% 20%", video: "/assets/video/chinese/lesson2.mp4" },
     { id: 3, title: "Lesson 3 - Advanced Numbers", image: "/assets/chinese/lesson3.jpg", video: "/assets/video/chinese/lesson3.mp4" },
-    { id: 4, title: "Lesson 4 - Directions", image: "/assets/chinese/lesson4.avif", video: "/assets/video/chinese/lesson4.mp4" },
+    { id: 4, title: "Lesson 4 - Directions", image: "/assets/chinese/lesson4.jpg", video: "/assets/video/chinese/lesson4.mp4" },
   ],
 };

@@ -1,0 +1,1976 @@
+{
+  "vocabulary": [
+    {
+      "chinese": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)"
+    },
+    {
+      "chinese": "您好",
+      "pinyin": "nín hǎo",
+      "english": "hello (formal/respectful)"
+    },
+    {
+      "chinese": "早上好",
+      "pinyin": "zǎo shàng hǎo",
+      "english": "good morning"
+    },
+    {
+      "chinese": "晚安",
+      "pinyin": "wǎn ān",
+      "english": "good night"
+    },
+    {
+      "chinese": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you"
+    },
+    {
+      "chinese": "不客气",
+      "pinyin": "bù kè qi",
+      "english": "you're welcome (lit. don't be polite)"
+    },
+    {
+      "chinese": "不用谢",
+      "pinyin": "bú yòng xiè",
+      "english": "don't mention it (lit. no need to thank)"
+    },
+    {
+      "chinese": "对",
+      "pinyin": "duì",
+      "english": "correct/yes"
+    },
+    {
+      "chinese": "不对",
+      "pinyin": "bù duì",
+      "english": "incorrect/no"
+    },
+    {
+      "chinese": "对不起",
+      "pinyin": "duì bu qǐ",
+      "english": "I'm sorry"
+    },
+    {
+      "chinese": "没关系",
+      "pinyin": "méi guān xi",
+      "english": "it's okay/it doesn't matter"
+    },
+    {
+      "chinese": "请",
+      "pinyin": "qǐng",
+      "english": "please/excuse me"
+    },
+    {
+      "chinese": "很高兴认识你",
+      "pinyin": "hěn gāo xìng rèn shi nǐ",
+      "english": "nice to meet you"
+    },
+    {
+      "chinese": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')"
+    }
+  ],
+  "timestamps": [
+    {
+      "text": "Welcome to Level 1, Topic 1 of your Chinese Audio Coach. Mandarin Chinese is a tonal language, meaning pitch changes word meanings. Listen carefully, mimic the music of the language, and speak out loud during the pauses. Let's begin.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 0.0,
+      "end": 16.3
+    },
+    {
+      "text": "Imagine meeting someone for the first time in Beijing. To say a standard, polite hello, a native speaker says.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 16.8,
+      "end": 23.9
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 24.4,
+      "end": 26.06
+    },
+    {
+      "text": "Notice the dip and rise in pitch. Both syllables drop then rise. When spoken together, the first syllable softens slightly. Listen again.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 26.56,
+      "end": 36.25
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 36.75,
+      "end": 37.95
+    },
+    {
+      "text": "Now repeat out loud after the speaker. Match their pitch. Hello.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 38.45,
+      "end": 43.25
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 43.75,
+      "end": 45.41
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 45.91,
+      "end": 47.91
+    },
+    {
+      "text": "Try saying it again. Hello.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 47.91,
+      "end": 50.33
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 50.83,
+      "end": 52.03
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 52.53,
+      "end": 54.53
+    },
+    {
+      "text": "If you are addressing an elder, a teacher, or a client, you should use the formal, respectful version of you. Hello (formal).",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 54.53,
+      "end": 63.41
+    },
+    {
+      "text": "您好",
+      "pinyin": "nín hǎo",
+      "english": "hello (formal/respectful)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 63.91,
+      "end": 65.54
+    },
+    {
+      "text": "Listen to the subtle nasal 'n' sound added to the first syllable: Nín hǎo. Formal hello.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 66.04,
+      "end": 72.62
+    },
+    {
+      "text": "您好",
+      "pinyin": "nín hǎo",
+      "english": "hello (formal/respectful)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 73.12,
+      "end": 74.3
+    },
+    {
+      "text": "Your turn. Speak out loud. Hello (formal).",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 74.8,
+      "end": 78.97
+    },
+    {
+      "text": "您好",
+      "pinyin": "nín hǎo",
+      "english": "hello (formal/respectful)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 79.47,
+      "end": 81.1
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 81.6,
+      "end": 83.6
+    },
+    {
+      "text": "Now, let's learn how to greet someone in the morning. A native speaker says: Good morning.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 83.6,
+      "end": 89.2
+    },
+    {
+      "text": "早上好",
+      "pinyin": "zǎo shàng hǎo",
+      "english": "good morning",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 89.7,
+      "end": 91.11
+    },
+    {
+      "text": "Listen to the sharp, clear tones. Good morning.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 91.61,
+      "end": 95.19
+    },
+    {
+      "text": "早上好",
+      "pinyin": "zǎo shàng hǎo",
+      "english": "good morning",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 95.69,
+      "end": 97.25
+    },
+    {
+      "text": "Repeat out loud after the speaker.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 97.75,
+      "end": 99.96
+    },
+    {
+      "text": "早上好",
+      "pinyin": "zǎo shàng hǎo",
+      "english": "good morning",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 100.46,
+      "end": 101.87
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 102.37,
+      "end": 104.87
+    },
+    {
+      "text": "Say it one more time. Good morning.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 104.87,
+      "end": 107.78
+    },
+    {
+      "text": "早上好",
+      "pinyin": "zǎo shàng hǎo",
+      "english": "good morning",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 108.28,
+      "end": 109.84
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 110.34,
+      "end": 112.84
+    },
+    {
+      "text": "At night, before someone goes to sleep or when parting ways late, you say: Good night.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 112.84,
+      "end": 118.69
+    },
+    {
+      "text": "晚安",
+      "pinyin": "wǎn ān",
+      "english": "good night",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 119.19,
+      "end": 120.37
+    },
+    {
+      "text": "Repeat after the male speaker. Good night.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 120.87,
+      "end": 124.01
+    },
+    {
+      "text": "晚安",
+      "pinyin": "wǎn ān",
+      "english": "good night",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 124.51,
+      "end": 126.12
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 126.62,
+      "end": 129.12
+    },
+    {
+      "text": "Let's test your memory. Say the Chinese translation during the pause. Hello (standard).",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 129.12,
+      "end": 135.53
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 136.03,
+      "end": 138.53
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 138.53,
+      "end": 140.18
+    },
+    {
+      "text": "Say it again. Hello.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 140.68,
+      "end": 142.96
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 143.46,
+      "end": 145.96
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 145.96,
+      "end": 147.16
+    },
+    {
+      "text": "How do you say 'Hello' formally to an older person?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 147.66,
+      "end": 150.88
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 151.38,
+      "end": 153.38
+    },
+    {
+      "text": "您好",
+      "pinyin": "nín hǎo",
+      "english": "hello (formal/respectful)",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 153.38,
+      "end": 155.01
+    },
+    {
+      "text": "Now tell someone good morning.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 155.51,
+      "end": 157.48
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 157.98,
+      "end": 160.48
+    },
+    {
+      "text": "早上好",
+      "pinyin": "zǎo shàng hǎo",
+      "english": "good morning",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 160.48,
+      "end": 161.9
+    },
+    {
+      "text": "And wish them a peaceful good night.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 162.4,
+      "end": 164.68
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 165.18,
+      "end": 167.68
+    },
+    {
+      "text": "晚安",
+      "pinyin": "wǎn ān",
+      "english": "good night",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 167.68,
+      "end": 169.28
+    },
+    {
+      "text": "Moving to Module 2: Expressing gratitude. To thank someone, a native speaker says.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 169.78,
+      "end": 175.76
+    },
+    {
+      "text": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 176.26,
+      "end": 177.53
+    },
+    {
+      "text": "Notice how the second syllable drops off sharply and becomes quiet: Xièxie. Listen again.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 178.03,
+      "end": 184.61
+    },
+    {
+      "text": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 185.11,
+      "end": 186.64
+    },
+    {
+      "text": "Repeat out loud. Thank you.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 187.14,
+      "end": 189.54
+    },
+    {
+      "text": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 190.04,
+      "end": 191.32
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 191.82,
+      "end": 194.32
+    },
+    {
+      "text": "When someone thanks you, respond politely with 'You're welcome'. The traditional phrase literally means 'No need to be polite'.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 194.32,
+      "end": 202.04
+    },
+    {
+      "text": "不客气",
+      "pinyin": "bù kè qi",
+      "english": "you're welcome (lit. don't be polite)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 202.54,
+      "end": 204.2
+    },
+    {
+      "text": "Listen to the female speaker. You're welcome.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 204.7,
+      "end": 207.84
+    },
+    {
+      "text": "不客气",
+      "pinyin": "bù kè qi",
+      "english": "you're welcome (lit. don't be polite)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 208.34,
+      "end": 209.78
+    },
+    {
+      "text": "Repeat out loud. You're welcome.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 210.28,
+      "end": 212.68
+    },
+    {
+      "text": "不客气",
+      "pinyin": "bù kè qi",
+      "english": "you're welcome (lit. don't be polite)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 213.18,
+      "end": 214.84
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 215.34,
+      "end": 217.34
+    },
+    {
+      "text": "Another common way to say 'You’re welcome' or 'Don't mention it' is: No need to thank.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 217.34,
+      "end": 222.96
+    },
+    {
+      "text": "不用谢",
+      "pinyin": "bú yòng xiè",
+      "english": "don't mention it (lit. no need to thank)",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 223.46,
+      "end": 224.9
+    },
+    {
+      "text": "Repeat. No need for thanks.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 225.4,
+      "end": 227.94
+    },
+    {
+      "text": "不用谢",
+      "pinyin": "bú yòng xiè",
+      "english": "don't mention it (lit. no need to thank)",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 228.44,
+      "end": 230.17
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 230.67,
+      "end": 232.67
+    },
+    {
+      "text": "Time for a cumulative review. Speed is key. How do you say Thank you?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 232.67,
+      "end": 237.71
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 238.21,
+      "end": 240.71
+    },
+    {
+      "text": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 240.71,
+      "end": 241.98
+    },
+    {
+      "text": "How do you say Hello standard?",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 242.48,
+      "end": 244.38
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 244.88,
+      "end": 247.38
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 247.38,
+      "end": 249.03
+    },
+    {
+      "text": "Respond to thank you with 'You're welcome'.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 249.53,
+      "end": 252.27
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 252.77,
+      "end": 254.77
+    },
+    {
+      "text": "不客气",
+      "pinyin": "bù kè qi",
+      "english": "you're welcome (lit. don't be polite)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 254.77,
+      "end": 256.21
+    },
+    {
+      "text": "Greet a boss or an elder. Formal hello.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 256.71,
+      "end": 259.97
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 260.47,
+      "end": 262.47
+    },
+    {
+      "text": "您好",
+      "pinyin": "nín hǎo",
+      "english": "hello (formal/respectful)",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 262.47,
+      "end": 264.1
+    },
+    {
+      "text": "Say 'Don't mention it' or 'No need for thanks'.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 264.6,
+      "end": 267.51
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 268.01,
+      "end": 270.51
+    },
+    {
+      "text": "不用谢",
+      "pinyin": "bú yòng xiè",
+      "english": "don't mention it (lit. no need to thank)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 270.51,
+      "end": 271.95
+    },
+    {
+      "text": "Finally, wish someone a good morning.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 272.45,
+      "end": 274.58
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 275.08,
+      "end": 277.58
+    },
+    {
+      "text": "早上好",
+      "pinyin": "zǎo shàng hǎo",
+      "english": "good morning",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 277.58,
+      "end": 279.0
+    },
+    {
+      "text": "Module 3 handles basic validation, answers, and mistakes. To say 'Correct' or 'Yes' in response to a statement, we say.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 279.5,
+      "end": 288.6
+    },
+    {
+      "text": "对",
+      "pinyin": "duì",
+      "english": "correct/yes",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 289.1,
+      "end": 290.56
+    },
+    {
+      "text": "It is a short, sharp downward tone: Duì. Correct.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 291.06,
+      "end": 295.0
+    },
+    {
+      "text": "对",
+      "pinyin": "duì",
+      "english": "correct/yes",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 295.5,
+      "end": 296.55
+    },
+    {
+      "text": "Repeat it now. Correct.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 297.05,
+      "end": 299.14
+    },
+    {
+      "text": "对",
+      "pinyin": "duì",
+      "english": "correct/yes",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 299.64,
+      "end": 301.1
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 301.6,
+      "end": 303.1
+    },
+    {
+      "text": "To negate or say 'No/Not correct', add the word for 'Not' in front. Not correct.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 303.1,
+      "end": 309.49
+    },
+    {
+      "text": "不对",
+      "pinyin": "bù duì",
+      "english": "incorrect/no",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 309.99,
+      "end": 311.24
+    },
+    {
+      "text": "Repeat the negative. Incorrect.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 311.74,
+      "end": 314.3
+    },
+    {
+      "text": "不对",
+      "pinyin": "bù duì",
+      "english": "incorrect/no",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 314.8,
+      "end": 316.34
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 316.84,
+      "end": 318.34
+    },
+    {
+      "text": "If you make a mistake, apologize politely. I'm sorry.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 318.34,
+      "end": 322.35
+    },
+    {
+      "text": "对不起",
+      "pinyin": "duì bu qǐ",
+      "english": "I'm sorry",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 322.85,
+      "end": 324.22
+    },
+    {
+      "text": "Listen again. Notice the bouncy rhythm. Duìbuqǐ.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 324.72,
+      "end": 328.92
+    },
+    {
+      "text": "对不起",
+      "pinyin": "duì bu qǐ",
+      "english": "I'm sorry",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 329.42,
+      "end": 331.1
+    },
+    {
+      "text": "Your turn to speak. I'm sorry.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 331.6,
+      "end": 334.02
+    },
+    {
+      "text": "对不起",
+      "pinyin": "duì bu qǐ",
+      "english": "I'm sorry",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 334.52,
+      "end": 335.89
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 336.39,
+      "end": 338.39
+    },
+    {
+      "text": "When someone apologizes to you, reassure them by saying 'It's okay' or 'It doesn't matter'.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 338.39,
+      "end": 344.53
+    },
+    {
+      "text": "没关系",
+      "pinyin": "méi guān xi",
+      "english": "it's okay/it doesn't matter",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 345.03,
+      "end": 346.78
+    },
+    {
+      "text": "Listen to the smooth flow: Méi guānxi. It's okay.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 347.28,
+      "end": 351.22
+    },
+    {
+      "text": "没关系",
+      "pinyin": "méi guān xi",
+      "english": "it's okay/it doesn't matter",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 351.72,
+      "end": 353.18
+    },
+    {
+      "text": "Repeat out loud. It doesn't matter.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 353.68,
+      "end": 356.47
+    },
+    {
+      "text": "没关系",
+      "pinyin": "méi guān xi",
+      "english": "it's okay/it doesn't matter",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 356.97,
+      "end": 358.72
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 359.22,
+      "end": 361.72
+    },
+    {
+      "text": "Let's perform a comprehensive review loop. Answer fast. Say: Correct.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 361.72,
+      "end": 367.58
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 368.08,
+      "end": 369.58
+    },
+    {
+      "text": "对",
+      "pinyin": "duì",
+      "english": "correct/yes",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 369.58,
+      "end": 370.63
+    },
+    {
+      "text": "Say: Incorrect.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 371.13,
+      "end": 373.32
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 373.82,
+      "end": 375.82
+    },
+    {
+      "text": "不对",
+      "pinyin": "bù duì",
+      "english": "incorrect/no",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 375.82,
+      "end": 377.35
+    },
+    {
+      "text": "Say: I'm sorry.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 377.85,
+      "end": 379.68
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 380.18,
+      "end": 382.68
+    },
+    {
+      "text": "对不起",
+      "pinyin": "duì bu qǐ",
+      "english": "I'm sorry",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 382.68,
+      "end": 384.04
+    },
+    {
+      "text": "Say: It's okay / It doesn't matter.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 384.54,
+      "end": 387.98
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 388.48,
+      "end": 390.98
+    },
+    {
+      "text": "没关系",
+      "pinyin": "méi guān xi",
+      "english": "it's okay/it doesn't matter",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 390.98,
+      "end": 392.73
+    },
+    {
+      "text": "Say: Thank you.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 393.23,
+      "end": 395.2
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 395.7,
+      "end": 397.2
+    },
+    {
+      "text": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 397.2,
+      "end": 398.47
+    },
+    {
+      "text": "Say: Good night.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 398.97,
+      "end": 400.26
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 400.76,
+      "end": 403.26
+    },
+    {
+      "text": "晚安",
+      "pinyin": "wǎn ān",
+      "english": "good night",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 403.26,
+      "end": 404.87
+    },
+    {
+      "text": "In Module 4, let's learn how to ask for something politely. To say 'Please' or 'Excuse me' before an action, say.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 405.37,
+      "end": 413.32
+    },
+    {
+      "text": "请",
+      "pinyin": "qǐng",
+      "english": "please/excuse me",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 413.82,
+      "end": 414.87
+    },
+    {
+      "text": "It dips down and comes up: Qǐng. Please.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 415.37,
+      "end": 419.28
+    },
+    {
+      "text": "请",
+      "pinyin": "qǐng",
+      "english": "please/excuse me",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 419.78,
+      "end": 421.39
+    },
+    {
+      "text": "Repeat out loud. Please.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 421.89,
+      "end": 424.41
+    },
+    {
+      "text": "请",
+      "pinyin": "qǐng",
+      "english": "please/excuse me",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 424.91,
+      "end": 425.97
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 426.47,
+      "end": 428.97
+    },
+    {
+      "text": "When meeting someone for the first time, express your joy. Nice to meet you.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 428.97,
+      "end": 434.2
+    },
+    {
+      "text": "很高兴认识你",
+      "pinyin": "hěn gāo xìng rèn shi nǐ",
+      "english": "nice to meet you",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 434.7,
+      "end": 436.81
+    },
+    {
+      "text": "Listen to the breakdown: Hěn gāoxìng rènshi nǐ. Very glad to know you. Listen again.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 437.31,
+      "end": 443.48
+    },
+    {
+      "text": "很高兴认识你",
+      "pinyin": "hěn gāo xìng rèn shi nǐ",
+      "english": "nice to meet you",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 443.98,
+      "end": 445.9
+    },
+    {
+      "text": "Try repeating this longer phrase carefully. Nice to meet you.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 446.4,
+      "end": 450.72
+    },
+    {
+      "text": "很高兴认识你",
+      "pinyin": "hěn gāo xìng rèn shi nǐ",
+      "english": "nice to meet you",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 451.22,
+      "end": 453.33
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 453.83,
+      "end": 456.83
+    },
+    {
+      "text": "Finally, when it is time to part ways, say goodbye. Goodbye.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 456.83,
+      "end": 461.37
+    },
+    {
+      "text": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 461.87,
+      "end": 463.09
+    },
+    {
+      "text": "Both words drop hard down in pitch: Zàijiàn. It literally means 'See you again'. Listen again.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 463.59,
+      "end": 470.29
+    },
+    {
+      "text": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')",
+      "section": "teaching",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 470.79,
+      "end": 472.42
+    },
+    {
+      "text": "Repeat clearly. Goodbye.",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 472.92,
+      "end": 475.3
+    },
+    {
+      "text": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')",
+      "section": "teaching",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 475.8,
+      "end": 477.02
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "teaching",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 477.52,
+      "end": 480.02
+    },
+    {
+      "text": "You have unlocked the core structures. Let's enter the comprehensive retention challenge loop. Speak your answers instantly during the silence. Good morning.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 480.02,
+      "end": 489.88
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 490.38,
+      "end": 492.88
+    },
+    {
+      "text": "早上好",
+      "pinyin": "zǎo shàng hǎo",
+      "english": "good morning",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 492.88,
+      "end": 494.44
+    },
+    {
+      "text": "Thank you.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 494.94,
+      "end": 495.98
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 496.48,
+      "end": 498.98
+    },
+    {
+      "text": "谢谢",
+      "pinyin": "xiè xie",
+      "english": "thank you",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 498.98,
+      "end": 500.25
+    },
+    {
+      "text": "It doesn't matter / It's okay.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 500.75,
+      "end": 503.27
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 503.77,
+      "end": 505.77
+    },
+    {
+      "text": "没关系",
+      "pinyin": "méi guān xi",
+      "english": "it's okay/it doesn't matter",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 505.77,
+      "end": 507.52
+    },
+    {
+      "text": "Please.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 508.02,
+      "end": 509.08
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 509.58,
+      "end": 512.08
+    },
+    {
+      "text": "请",
+      "pinyin": "qǐng",
+      "english": "please/excuse me",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 512.08,
+      "end": 513.13
+    },
+    {
+      "text": "Nice to meet you.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 513.63,
+      "end": 515.02
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 515.52,
+      "end": 518.52
+    },
+    {
+      "text": "很高兴认识你",
+      "pinyin": "hěn gāo xìng rèn shi nǐ",
+      "english": "nice to meet you",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 518.52,
+      "end": 520.64
+    },
+    {
+      "text": "Hello (formal version).",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 521.14,
+      "end": 523.18
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 523.68,
+      "end": 525.68
+    },
+    {
+      "text": "您好",
+      "pinyin": "nín hǎo",
+      "english": "hello (formal/respectful)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 525.68,
+      "end": 526.85
+    },
+    {
+      "text": "Goodbye.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 527.35,
+      "end": 528.36
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 528.86,
+      "end": 531.36
+    },
+    {
+      "text": "再见",
+      "pinyin": "zài jiàn",
+      "english": "goodbye (lit. 'see you again')",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 531.36,
+      "end": 532.99
+    },
+    {
+      "text": "Final accelerated round to establish effortless recall. Keep your energy up. Hello.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 533.49,
+      "end": 539.8
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 540.3,
+      "end": 541.8
+    },
+    {
+      "text": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "hello (standard)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 541.8,
+      "end": 543.0
+    },
+    {
+      "text": "Correct.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 543.5,
+      "end": 544.39
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 544.89,
+      "end": 546.39
+    },
+    {
+      "text": "对",
+      "pinyin": "duì",
+      "english": "correct/yes",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 546.39,
+      "end": 547.86
+    },
+    {
+      "text": "Incorrect.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 548.36,
+      "end": 549.51
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 550.01,
+      "end": 551.51
+    },
+    {
+      "text": "不对",
+      "pinyin": "bù duì",
+      "english": "incorrect/no",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 551.51,
+      "end": 552.76
+    },
+    {
+      "text": "I'm sorry.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 553.26,
+      "end": 554.36
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 554.86,
+      "end": 556.86
+    },
+    {
+      "text": "对不起",
+      "pinyin": "duì bu qǐ",
+      "english": "I'm sorry",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 556.86,
+      "end": 558.54
+    },
+    {
+      "text": "You're welcome.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 559.04,
+      "end": 560.14
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 560.64,
+      "end": 562.64
+    },
+    {
+      "text": "不客气",
+      "pinyin": "bù kè qi",
+      "english": "you're welcome (lit. don't be polite)",
+      "section": "review",
+      "voice": "female",
+      "is_chinese": true,
+      "start": 562.64,
+      "end": 564.08
+    },
+    {
+      "text": "Good night.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 564.58,
+      "end": 565.57
+    },
+    {
+      "text": "[pause]",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "pause",
+      "is_chinese": false,
+      "start": 566.07,
+      "end": 568.07
+    },
+    {
+      "text": "晚安",
+      "pinyin": "wǎn ān",
+      "english": "good night",
+      "section": "review",
+      "voice": "male",
+      "is_chinese": true,
+      "start": 568.07,
+      "end": 569.68
+    },
+    {
+      "text": "Excellent work. Your muscle memory for foundational Mandarin greetings is now operating automatically. Keep practicing out loud. Session complete.",
+      "pinyin": "",
+      "english": "",
+      "section": "review",
+      "voice": "narrator",
+      "is_chinese": false,
+      "start": 570.18,
+      "end": 580.26
+    }
+  ]
+}

@@ -3,6 +3,9 @@ import edge_tts
 from pydub import AudioSegment
 import json
 import re
+import sys
+sys.path.append(r"C:\Users\NIKISHA\Documents\korean-app\frontend\text_to_speech\chinese")
+from chinese_vocabulary import VOCABULARY
 
 # =========================
 # VOICE CONFIGURATION
@@ -15,69 +18,6 @@ CHINESE_FEMALE = "zh-CN-XiaoxiaoNeural"
 # =========================
 # LESSON SCRIPT
 # =========================
-
-VOCABULARY = {
-    "在哪儿": {
-        "pinyin": "zài nǎr",
-        "english": "where"
-    },
-    "一直走": {
-        "pinyin": "yìzhí zǒu",
-        "english": "go straight ahead"
-    },
-    "停": {
-        "pinyin": "tíng",
-        "english": "stop"
-    },
-    "左边": {
-        "pinyin": "zuǒ biān",
-        "english": "left side"
-    },
-    "右边": {
-        "pinyin": "yòu biān",
-        "english": "right side"
-    },
-    "左拐": {
-        "pinyin": "zuǒ guǎi",
-        "english": "turn left"
-    },
-    "右拐": {
-        "pinyin": "yòu guǎi",
-        "english": "turn right"
-    },
-    "前面": {
-        "pinyin": "qián miàn",
-        "english": "front"
-    },
-    "后面": {
-        "pinyin": "hòu miàn",
-        "english": "behind"
-    },
-    "您好": {
-        "pinyin": "nín hǎo",
-        "english": "hello (formal)"
-    },
-    "多少钱": {
-        "pinyin": "duō shǎo qián",
-        "english": "how much money"
-    },
-    "两块": {
-        "pinyin": "liǎng kuài",
-        "english": "two dollars"
-    },
-    "谢谢": {
-        "pinyin": "xiè xie",
-        "english": "thank you"
-    },
-    "六": {
-        "pinyin": "liù",
-        "english": "six"
-    },
-    "再见": {
-        "pinyin": "zài jiàn",
-        "english": "goodbye"
-    }
-}
 
 script = [
     # =========================================================
@@ -705,6 +645,7 @@ script = [
 ]
 
 
+
 # =========================
 # VOICE SELECTOR
 # =========================
@@ -757,12 +698,19 @@ async def build_lesson():
 
         # Handle pauses
         if "pause" in item:
-
+            timestamps.append({
+                "text": "[pause]",
+                "pinyin": "",
+                "english": "",
+                "section": item["section"],
+                "voice": "pause",
+                "is_chinese": False,
+                "start": round(current_ms / 1000, 2),
+                "end": round((current_ms + item["pause"]) / 1000, 2)
+            })
             silence = AudioSegment.silent(duration=item["pause"])
             combined += silence
-
             current_ms += item["pause"]
-
             continue
 
         voice = get_voice(item["voice"])
@@ -793,17 +741,20 @@ async def build_lesson():
 
         duration = len(segment)
 
-        # Save timestamps only for Chinese phrases
-        if re.search(r'[\u4e00-\u9fff]', text):
+        # Save timestamps for everything
+        is_chinese = bool(re.search(r'[\u4e00-\u9fff]', text))
+        clean_text = text.replace("。", "").replace("？", "").replace("！", "") if is_chinese else text
 
-            timestamps.append({
-                "text": clean_text,
-                "pinyin": VOCABULARY.get(clean_text, {}).get("pinyin", ""),
-                "english": VOCABULARY.get(clean_text, {}).get("english", ""),
-                "section": item["section"],
-                "start": round(current_ms / 1000, 2),
-                "end": round((current_ms + duration) / 1000, 2)
-            })
+        timestamps.append({
+            "text": clean_text,
+            "pinyin": VOCABULARY.get(clean_text, {}).get("pinyin", "") if is_chinese else "",
+            "english": VOCABULARY.get(clean_text, {}).get("english", "") if is_chinese else "",
+            "section": item["section"],
+            "voice": item["voice"],
+            "is_chinese": is_chinese,
+            "start": round(current_ms / 1000, 2),
+            "end": round((current_ms + duration) / 1000, 2)
+        })
 
         combined += segment
 
